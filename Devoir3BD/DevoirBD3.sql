@@ -1,3 +1,7 @@
+Binome : ABDESLAMI ZAYNA
+	 HMAIDDOUCH NADA
+Groupe: G1
+
 Procédures Stockées
 
 1)	Ecrire une procédure «ajoutPilote» qui permet la création d’un nouveau pilote.
